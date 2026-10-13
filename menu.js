@@ -7,7 +7,7 @@ console.log("[+] Loading Mestros Ultimate Holdable Mod Menu Structure...");
 
 // --- KEY SYSTEM & DEVICE ID CONFIGURATION ---
 // Replace this with your backend server URL or local validation method
-var AUTH_SERVER_URL = "http://YOUR_BOT_IP:8080/api/verify"; 
+var AUTH_SERVER_URL = "mestrosacs-update-mods-bot-production.up.railway.app"; 
 var userDeviceID = "QUEST_DEVICE_ID_12345"; // Pull your headset hardware ID here
 var userEnteredKey = "MESTRO-XXXX-XXXX-XXXX"; // The key the user inputted
 
